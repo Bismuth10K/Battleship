@@ -1,0 +1,1 @@
+Nom Joueur 1, coup réussi, coup raté, Nom Joueur 2, coup réussi, coup raté
