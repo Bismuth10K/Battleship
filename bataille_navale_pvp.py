@@ -1,7 +1,7 @@
 #Bibliothèque requis
 from termcolor import colored
 import csv
-# NUL
+# TEST
 
 #Initialisation des variables pour les scores
 shootP1 = 0
